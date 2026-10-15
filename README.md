@@ -2,9 +2,9 @@
 
 **American Republic Futures Institute (ARFI)**
 
-*A long-horizon, publicly reviewed architecture for a freer, more capable, more prosperous and more resilient American republic.*
+*A long-term, publicly reviewed plan for a freer, more capable, more prosperous, and more resilient American republic.*
 
-**Status:** Manuscript draft v0.1.0 — not ratified. **Horizon:** 2026–2101, with exploratory scenarios beyond 2101.
+**Status:** Manuscript draft v0.1.0 — not ratified. **Horizon:** Long-term and intergenerational, with revisable checkpoints rather than a fixed end date.
 
 ## Read the plan
 
@@ -23,6 +23,6 @@ This manuscript is **not** a political-party platform, an authorized government 
 
 Use GitHub issues and review discussions to report inaccuracies, supply credible evidence, and propose alternatives. Cite specific sections or FP identifiers and explain whether your claim is factual, legal, normative or hypothetical. Canonical edits are subject to review.
 
-**Institute:** American Republic Futures Institute. **Initiative:** United States 2100 (working title). **Manuscript:** *The Republic We Build*.
+**Institute:** American Republic Futures Institute (ARFI). **Public initiative and manuscript:** *The Republic We Build*.
 
 The manuscript license and contribution terms remain undecided; no license is implied by public repository visibility.
