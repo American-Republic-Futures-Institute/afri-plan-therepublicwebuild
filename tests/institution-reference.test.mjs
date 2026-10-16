@@ -29,7 +29,7 @@ broken("Detect retired initiative title",d=>{
 },/Retired working title/);
 broken("Detect unpinned plan contract",d=>{
   const p="research/SHARED_CAPABILITY_DEPENDENCIES.md";
-  d[p]=d[p].replace("173476efd1e66988d7f51f67526025d007e44e93","main");
+  d[p]=d[p].replaceAll("173476efd1e66988d7f51f67526025d007e44e93","main");
 },/Immutable plan snapshot ref missing/);
 broken("Detect missing institutional navigation",d=>{
   d["README.md"]=d["README.md"].replace("manuscript/institutions/00-government-institution-reference.md","not-here.md");
