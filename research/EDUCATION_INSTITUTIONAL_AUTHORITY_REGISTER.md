@@ -30,7 +30,7 @@ The relevant institutions do not form a unitary education command. Congress legi
 
 ## 3. Source registry
 
-### EIA-SRC-01 — Federal/state/local education relationship
+### EIA-SRC-01: Federal/state/local education relationship
 
 **Primary agency explanation:** [U.S. Department of Education — Federal Role in Education](https://www.ed.gov/about/ed-overview/federal-role-in-education?lang=en).
 
@@ -38,7 +38,7 @@ The relevant institutions do not form a unitary education command. Congress legi
 
 **Limit:** The page cites historical school-year 2012–13 finance figures; those cannot be presented as the current financing share.
 
-### EIA-SRC-02 — Limits on Department of Education control
+### EIA-SRC-02: Limits on Department of Education control
 
 **Official summary:** [Department of Education — What Is Not Part of ED's Role?](https://www.ed.gov/about/ed-overview/overview-of-us-department-of-education-what-not-part-of-eds-role); [Federal Role FAQ](https://www.ed.gov/about/contact-us/faqs/Elementary%20and%20Secondary%20Education).
 
@@ -48,7 +48,7 @@ The relevant institutions do not form a unitary education command. Congress legi
 
 **Limit:** This should not be misstated as prohibiting every federal educational condition or civil-rights enforcement action.
 
-### EIA-SRC-03 — Elementary and Secondary Education Act / ESSA
+### EIA-SRC-03: Elementary and Secondary Education Act / ESSA
 
 **Agency explanation:** [Department of Education — Every Student Succeeds Act](https://www.ed.gov/laws-and-policy/laws-preschool-grade-12-education/esea/what-is-the-every-student-succeeds-act); [ESEA general provisions](https://www.ed.gov/laws-and-policy/laws-preschool-grade-12-education/esea/part-c--general-provisions).
 
@@ -56,7 +56,7 @@ The relevant institutions do not form a unitary education command. Congress legi
 
 **Limit:** Statutory funding, waiver and oversight requirements must be analyzed section by section; no single source here comprehensively describes all formula grants.
 
-### EIA-SRC-04 — Special education under IDEA
+### EIA-SRC-04: Special education under IDEA
 
 **Official regulations:** [IDEA — About the Department and OSERS](https://sites.ed.gov/idea/about-us-department-of-education/); [IDEA applicability to states and local agencies](https://sites.ed.gov/idea/regs/b/a/300.2); [IDEA 2026 state determinations](https://sites.ed.gov/idea/idea-files/2026-determination-letters-on-state-implementation-of-idea/).
 
@@ -64,7 +64,7 @@ The relevant institutions do not form a unitary education command. Congress legi
 
 **Limit:** IDEA is not equivalent to a universal constitutional right to every educational service. The applicable scope of federal assistance, program eligibility and legal remedies must be assessed separately.
 
-### EIA-SRC-05 — House legislative education jurisdiction
+### EIA-SRC-05: House legislative education jurisdiction
 
 **Official committee description:** [U.S. House Committee on Education & the Workforce — Jurisdiction](https://edworkforce.house.gov/committee/jurisdiction/); [Early Childhood, Elementary and Secondary Education Subcommittee](https://edworkforce.house.gov/committee/ecese.htm); [Higher Education and Workforce Development Subcommittee](https://edworkforce.house.gov/committee/hewd.htm).
 
@@ -72,7 +72,7 @@ The relevant institutions do not form a unitary education command. Congress legi
 
 **Limit:** Committee names, subcommittees and membership can change by Congress; jurisdiction is procedural and does not transfer executive functions to committees.
 
-### EIA-SRC-06 — Senate legislative education jurisdiction
+### EIA-SRC-06: Senate legislative education jurisdiction
 
 **Official committee description:** [Senate HELP Committee — About and Jurisdiction](https://www.help.senate.gov/about).
 
@@ -80,7 +80,7 @@ The relevant institutions do not form a unitary education command. Congress legi
 
 **Limit:** Oversight and legislative consideration are not the same as school operations or appropriations enactment.
 
-### EIA-SRC-07 — Congressional independent oversight
+### EIA-SRC-07: Congressional independent oversight
 
 **Independent legislative support:** [GAO — How Does GAO Serve Congress?](https://www.gao.gov/blog/how-does-gao-serve-congress); [GAO, September 2026 K–12 Oversight Findings](https://www.gao.gov/products/gao-26-107920).
 
@@ -88,7 +88,7 @@ The relevant institutions do not form a unitary education command. Congress legi
 
 **Limit:** GAO recommendations are not enacted policy; the cited report discusses identifiable 2026 monitoring changes and must not be generalized to all educational oversight.
 
-### EIA-SRC-08 — Department of Education K–12 administration
+### EIA-SRC-08: Department of Education K–12 administration
 
 **Agency functional statement:** [Office of Elementary and Secondary Education](https://www.ed.gov/about/ed-offices/oese).
 
@@ -96,7 +96,7 @@ The relevant institutions do not form a unitary education command. Congress legi
 
 **Limit:** Neither the office nor its programs supersede state/local school governance generally; verify each function in light of time-sensitive interagency arrangements.
 
-### EIA-SRC-09 — Federal research and educational statistics
+### EIA-SRC-09: Federal research and educational statistics
 
 **Agency research functions:** [Institute of Education Sciences](https://ies.ed.gov/about); [NCES — About](https://ies.ed.gov/national-center-education-statistics-nces/about).
 
@@ -104,7 +104,7 @@ The relevant institutions do not form a unitary education command. Congress legi
 
 **Limit:** Research organizations document and analyze rather than govern local curricula. The exact status of grants, datasets and reorganized functions requires date-specific verification.
 
-### EIA-SRC-10 — Educational civil-rights enforcement
+### EIA-SRC-10: Educational civil-rights enforcement
 
 **Agency enforcement description:** [Department of Education Office for Civil Rights](https://www.ed.gov/laws-and-policy/civil-rights-laws/file-complaint/how-the-office-for-civil-rights-handles-complaints); [DOJ Civil Rights Division Educational Opportunities Section](https://www.justice.gov/crt/educational-opportunities-section).
 
@@ -114,7 +114,7 @@ The relevant institutions do not form a unitary education command. Congress legi
 
 **Limit:** The applicable statute, covered recipients, protected class, investigation, remedy, and jurisdiction vary. Neither OCR nor DOJ has general power to set educational curriculum.
 
-### EIA-SRC-11 — Early childhood / Head Start
+### EIA-SRC-11: Early childhood / Head Start
 
 **Program authority summary:** [Office of Head Start — About](https://www.headstart.gov/about-us/article/about-office-head-start).
 
@@ -122,7 +122,7 @@ The relevant institutions do not form a unitary education command. Congress legi
 
 **Limit:** Head Start is a specific program; it neither replaces all early-childhood education nor grants HHS general K–12 curricular authority.
 
-### EIA-SRC-12 — Apprenticeships and workforce learning
+### EIA-SRC-12: Apprenticeships and workforce learning
 
 **Official program architecture:** [Apprenticeship.gov — The Apprenticeship System](https://www.apprenticeship.gov/about-us/apprenticeship-system).
 
@@ -130,7 +130,7 @@ The relevant institutions do not form a unitary education command. Congress legi
 
 **Limit:** The recognized status and division of authority vary by state or territory and should not be generalized to every vocational program.
 
-### EIA-SRC-13 — Connectivity and learning infrastructure
+### EIA-SRC-13: Connectivity and learning infrastructure
 
 **Program administration:** [USAC — E-Rate](https://www.usac.org/e-rate/); [USAC — E-Rate Getting Started](https://www.usac.org/e-rate/get-started/).
 
@@ -138,7 +138,7 @@ The relevant institutions do not form a unitary education command. Congress legi
 
 **Limit:** E-Rate is a telecommunications support program, not a federal curricular or school governance authority.
 
-### EIA-SRC-14 — Tribal and BIE education
+### EIA-SRC-14: Tribal and BIE education
 
 **Federal/tribal institutional sources:** [Indian Affairs — BIE Overview](https://www.bia.gov/bie); [BIE — Tribally Controlled Schools](https://www.bie.edu/general-information/tribally-controlled-schools).
 
@@ -146,7 +146,7 @@ The relevant institutions do not form a unitary education command. Congress legi
 
 **Limit:** The term 'local educational agency' has program-dependent meanings; not all tribally controlled schools are directly operated federal schools or subordinate state LEAs. Tribal sovereignty and relevant treaty/statutory obligations require independent analysis.
 
-### EIA-SRC-15 — 2026 interagency education arrangements
+### EIA-SRC-15: 2026 interagency education arrangements
 
 **Agency update:** [Department of Education — Returning Education to the States](https://www.ed.gov/about/initiatives/returning-education-states).
 
@@ -154,7 +154,7 @@ The relevant institutions do not form a unitary education command. Congress legi
 
 **Limit:** The page describes administration policy; every agreement, delegation and possible statutory conflict requires separate inspection. This register does **not** conclude that an executive agreement abolished a congressionally established department or amended congressional statutes.
 
-### EIA-SRC-16 — U.S. territories and program relationships
+### EIA-SRC-16: U.S. territories and program relationships
 
 **Agency explanation:** [Department of Education — 2026 Interagency Arrangements and Territories](https://www.ed.gov/about/initiatives/returning-education-states); [ED Office of Postsecondary Education — Territorial Accreditation Liaison](https://www.ed.gov/laws-and-policy/higher-education-laws-and-policy/college-accreditation/accreditation-postsecondary-education-institutions/accreditation-group-state-liaison-team-roles-duties).
 
@@ -162,7 +162,7 @@ The relevant institutions do not form a unitary education command. Congress legi
 
 **Limit:** Inclusion in a federal program does not erase differences among territorial government, citizenship, representation, constitutional status and locally administered education law. A complete territory-by-territory map remains research pending.
 
-### EIA-SRC-17 — Federal judicial jurisdiction
+### EIA-SRC-17: Federal judicial jurisdiction
 
 **Judiciary explanation:** [United States Courts — Understanding Federal Courts](https://ord.uscourts.gov/index.php/court-info/about-the-judiciary).
 
@@ -170,7 +170,7 @@ The relevant institutions do not form a unitary education command. Congress legi
 
 **Limit:** Federal courts act on properly presented cases and controversies; they do not administer a national educational curriculum or substitute for ordinary legislative choices.
 
-### EIA-SRC-18 — Education and federal constitutional law
+### EIA-SRC-18: Education and federal constitutional law
 
 **Decisions:** [San Antonio Independent School District v. Rodriguez, 411 U.S. 1 (1973)](https://supreme.justia.com/cases/federal/us/411/1/); [Plyler v. Doe, 457 U.S. 202 (1982)](https://www.law.cornell.edu/supremecourt/text/457/202); [Endrew F. v. Douglas County School District, 580 U.S. 386 (2017)](https://www.law.cornell.edu/supremecourt/text/15-827).
 
