@@ -5,13 +5,16 @@
 **Level:** [Federal branch / department / bureau / office / independent agency / state / tribal / territorial / local partner]  
 **Version:** 0.1.0  
 **Status:** Working concept — open to review; not ratified  
-**Organizational information verified as of:** [Date, or RESEARCH PENDING]
+**Organizational information verified as of:** [Date, or RESEARCH PENDING]  
+**Canonical architecture institution ID:** [ORG-FED-* / sourced State ID / independent tribal or territorial reference / RESEARCH PENDING]  
+**Present legal authority evidence:** [Primary law and citation / authority not yet verified]  
+**Cross-domain capability refs:** [CAP-XDOM-* candidate links, if relevant; not delegated powers]
 
 > **Scope:** A readable account of the institution's lawful responsibilities and potential contribution to the national future. This is **not** an agency audit, an assumption of federal authority over other jurisdictions, or a predetermined proposal to retain, abolish or restructure the entity.
 
 ## 1. Institutional Identity and Present Lawful Role
 
-[Provide concise current legal identity, jurisdiction, accountability and function. Cite primary sources. An official org chart is a reference, not an assertion about future structure. Distinguish constitutionally established institutions from statutory entities.]
+[Provide concise current legal identity, jurisdiction, accountability and function. Reuse the canonical architecture record instead of creating a duplicate source of truth. Cite primary constitutional/statutory sources for actual powers and mark unsupported claims RESEARCH PENDING. An official org chart is a reference, not an assertion about future structure. Distinguish constitutionally established institutions from statutory entities.]
 
 ## 2. Its Relationship to the Republic We Seek
 

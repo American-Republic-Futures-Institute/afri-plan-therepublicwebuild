@@ -17,7 +17,7 @@ Develop the manuscript as an accessible, future-state-focused body of research, 
 | **INC-03** | Education future-state chapter — conceptual exemplar | Desired public condition, outcome indicators, necessary capabilities, minimal sourced current context, risks, public questions | Reviewed authoring standard |
 | **INC-04** | Education institutional crosswalk | Links education domain to appropriately grounded legislative, executive, judicial and state/local responsibilities; no invented authority | INC-03 draft and institutional template |
 | **INC-05** | Three contrasting domain pilots: health, economic prosperity and cybersecurity/privacy | Standard is usable across human services, markets and civil-liberty/security tensions; gaps incorporated as revisions | INC-03/04 lessons |
-| **INC-06** | Government branch/department/office reference structure | Verified legal organization tree; stable profiles and contribution links; coverage across branches and intergovernmental relationships | INC-04 profile exemplar |
+| **INC-06** | Government institution reference and cross-domain capability overlay | Sourced federal branch/Cabinet/selected-office navigation; provisional reusable capabilities, domain links, legal and jurisdictional guardrails; no fabricated exhaustive organization tree | INC-04 profile exemplar and INC-05 domain pilots |
 | **INC-07** | First integrated national outcomes and dependency view | Shared capabilities, overlaps and competing outcomes traced to domain concepts without creating an implementation mandate | Multiple reviewed domain chapters and institutional profiles |
 | **INC-08** | Public-review-ready first collection | Reader navigation, sources, stable references, comment workflow, review and correction states, clear nonratified status | Editorial and governance review |
 
@@ -46,8 +46,10 @@ These increments represent **research and publication outputs**, not actions tak
 
 **Gate F — Reader usability:** Clear hierarchy, accessible prose, navigable Markdown and reviewable structure. Detailed modeling lives in research records or the separate architecture repository.
 
-## Immediate next authoring target
+## Current progress and next authoring target
 
-**INC-03 — Education and Lifelong Learning** is the first planned substantive domain exemplar because it is recognizable to the public and crosses families, state/local responsibilities, higher education, workforce, research and technology. The chapter should begin with applied learning and meaningful opportunity, not a proposed federal curriculum, agency reorganization, or predetermined funding mechanism.
+**INC-01–INC-05 are merged as draft research**, and INC-06 supplies the first shared institutional reference and cross-domain capability overlay, alongside the existing education institutional exemplar. GitHub merges are publication of versioned *drafts*, not proof of specialist approval, democratic consensus, legal authority or ratification.
 
-Once the exemplar receives editorial feedback, update the templates before drafting the full set of domain chapters. Repeat the process for institutional profiles so the final paper remains coherent as coverage expands.
+**INC-07 — Integrated National Outcomes and Dependency View** is the next proposed increment. It should represent typed cross-domain dependencies and conflicts, identify rights and statutory authority boundaries, and test adverse scenarios without prescribing an implementation schedule. This will require verified source provenance, scenario assumptions and a human review register. Scope additional office-level profiles only when authoritative jurisdictional and statutory material is available.
+
+After INC-07, prepare INC-08 as a first public-review collection, with accessible comments, recorded responses, immutable version references and protection against automated abuse. Continue to refine the chapter standard based on substantive feedback, including better distinction between headline outcomes, diagnostic metrics and guardrail measures.

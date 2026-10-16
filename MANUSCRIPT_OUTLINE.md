@@ -528,6 +528,8 @@ Food and product safety, financial supervision, environment, labor, transportati
 
 ## Part III — The Government We Need: Branches, Institutions, and Offices
 
+**[Government Institutional Reference](manuscript/institutions/00-government-institution-reference.md)** — plain-language guide to the three branches, fifteen executive departments, independent bodies and separate State/tribal/territorial relationships. **[Institutional navigation](manuscript/institutions/README.md)** connects available office profiles; the **[shared capability crosswalk](research/SHARED_CAPABILITY_DEPENDENCIES.md)** links national outcomes without assigning governmental powers.
+
 **Initial institutional exemplar:** [Education: how public institutions can contribute](manuscript/institutions/education/00-institutional-crosswalk.md), with four branch/jurisdiction profiles and a separately sourced authority register. This is a model of lawful roles and future contributions, not a proposed agency restructuring.
 
 **Question:** Which public responsibilities and capabilities would support the national future states, and how should institutions remain constitutional, accountable and useful?
