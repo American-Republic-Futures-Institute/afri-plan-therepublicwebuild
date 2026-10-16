@@ -12,9 +12,12 @@
 2. [Introduction and first principles](manuscript/01-introduction-and-first-principles.md) — detailed ethical and constitutional framing; all 20 proposed principles and 12 evaluation gates.
 3. [Education and lifelong learning](manuscript/02-education-and-lifelong-learning.md) — first complete conceptual future-state domain chapter, with an [evidence and research register](research/EDUCATION_EVIDENCE_REGISTER.md).
 4. [Education institutional crosswalk](manuscript/institutions/education/00-institutional-crosswalk.md) — distinct legislative, executive, judicial and intergovernmental perspectives, with an [authority register](research/EDUCATION_INSTITUTIONAL_AUTHORITY_REGISTER.md).
-5. [Master manuscript outline](MANUSCRIPT_OUTLINE.md) — foundations, 14 future-state domains, the three federal branches and institutional partners, conceptual progress, and public stewardship.
-6. [Outline coverage crosswalk](research/OUTLINE_COVERAGE_CROSSWALK.md) — mapping of all 127 original chapter and appendix IDs into the reorganized manuscript.
-7. [Source and editorial register](research/SOURCES_AND_DECISIONS.md) — provenance, evidence taxonomy, unresolved questions and editorial constraints.
+5. [Health, prosperity and cybersecurity/privacy future-state chapters](manuscript/domains/README.md) — three independent national outcome pilots and their [comparative validation](research/INC05_CROSS_DOMAIN_VALIDATION.md).
+6. [Government Institutional Reference](manuscript/institutions/00-government-institution-reference.md) — three federal branches, statutory Cabinet departments, independent institutions and separate intergovernmental relationships.
+7. [Shared capability dependencies](research/SHARED_CAPABILITY_DEPENDENCIES.md) — eight candidate reusable capabilities linking outcomes across education, health, prosperity and digital security.
+8. [Master manuscript outline](MANUSCRIPT_OUTLINE.md) — foundations, 14 future-state domains, the three federal branches and institutional partners, conceptual progress, and public stewardship.
+9. [Outline coverage crosswalk](research/OUTLINE_COVERAGE_CROSSWALK.md) — mapping of all 127 original chapter and appendix IDs into the reorganized manuscript.
+10. [Source and editorial register](research/SOURCES_AND_DECISIONS.md) — provenance, evidence taxonomy, unresolved questions and editorial constraints.
 
 ## Purpose
 
