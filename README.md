@@ -15,9 +15,10 @@
 5. [Health, prosperity and cybersecurity/privacy future-state chapters](manuscript/domains/README.md) — three independent national outcome pilots and their [comparative validation](research/INC05_CROSS_DOMAIN_VALIDATION.md).
 6. [Government Institutional Reference](manuscript/institutions/00-government-institution-reference.md) — three federal branches, statutory Cabinet departments, independent institutions and separate intergovernmental relationships.
 7. [Shared capability dependencies](research/SHARED_CAPABILITY_DEPENDENCIES.md) — eight candidate reusable capabilities linking outcomes across education, health, prosperity and digital security.
-8. [Master manuscript outline](MANUSCRIPT_OUTLINE.md) — foundations, 14 future-state domains, the three federal branches and institutional partners, conceptual progress, and public stewardship.
-9. [Outline coverage crosswalk](research/OUTLINE_COVERAGE_CROSSWALK.md) — mapping of all 127 original chapter and appendix IDs into the reorganized manuscript.
-10. [Source and editorial register](research/SOURCES_AND_DECISIONS.md) — provenance, evidence taxonomy, unresolved questions and editorial constraints.
+8. [Connecting the Future We Seek](manuscript/04-connecting-national-outcomes.md) — Part IV explanation of cross-domain dependencies, public choices, constitutional limits and practical consequences, with an [open alternatives and review register](research/INC07_DEPENDENCIES_AND_REVIEW_REGISTER.md).
+9. [Master manuscript outline](MANUSCRIPT_OUTLINE.md) — foundations, 14 future-state domains, the three federal branches and institutional partners, conceptual progress, and public stewardship.
+10. [Outline coverage crosswalk](research/OUTLINE_COVERAGE_CROSSWALK.md) — mapping of all 127 original chapter and appendix IDs into the reorganized manuscript.
+11. [Source and editorial register](research/SOURCES_AND_DECISIONS.md) — provenance, evidence taxonomy, unresolved questions and editorial constraints.
 
 ## Purpose
 
