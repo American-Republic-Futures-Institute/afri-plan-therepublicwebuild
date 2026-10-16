@@ -641,6 +641,8 @@ Every institution or office profile should provide: (1) current legal identity a
 
 ## Part IV — What Must Become Possible: Conceptual Pathways
 
+**[Read the first integrated outcomes chapter](manuscript/04-connecting-national-outcomes.md)** — the relationships between education, health, economic opportunity and cybersecurity/privacy, with a [source-based options and safeguards register](research/INC07_DEPENDENCIES_AND_REVIEW_REGISTER.md). This is a conceptual research model, not an implementation plan.
+
 **Question:** What conditions and capabilities connect a desired future to the present without prematurely prescribing how government must implement a particular reform?
 
 Progress is described primarily as **observable conditions** and mutually dependent capabilities, not a promised schedule or mandated program. Options can remain unresolved; future implementation dossiers may be prepared separately if evidence and lawful authority support them.

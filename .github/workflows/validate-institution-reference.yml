@@ -35,3 +35,7 @@ jobs:
         run: node scripts/validate-institution-reference.mjs
       - name: Run institutional reference regression tests
         run: node --test tests/institution-reference.test.mjs
+      - name: Validate INC-07 manuscript dependencies, links and stable taxonomy
+        run: node scripts/validate-outcome-manuscript.mjs
+      - name: Test INC-07 manuscript dependency and editorial regressions
+        run: node --test tests/outcome-manuscript.test.mjs
