@@ -70,6 +70,8 @@ Stable identifiers, normative commitments, source hierarchy, ratification status
 
 ## Part II — The America We Seek to Build: National Future States
 
+**[Read the first three cross-domain pilot chapters](manuscript/domains/README.md)** — Health, economic prosperity, and cybersecurity/privacy. These initial drafts test the future-state chapter standard; the domain taxonomy remains open.
+
 **Question:** What should improve in American life, what must become possible, and how would we recognize durable progress?
 
 This is the manuscript's **principal substantive section**. Each domain begins with a clear desired national condition, then works backward to required capabilities, relevant evidence, alternatives and outcome-based conditions for progress. Current conditions are used to test assumptions and explain gaps; they are **not** the narrative center. Domain divisions are provisional and may change following public and expert review.
@@ -128,6 +130,8 @@ Tuition formation, loans, grants, institutional costs, athletics accounting, voc
 
 ### DOM-03 — Health and Human Well-Being
 
+**[Future-state chapter (draft)](manuscript/domains/DOM-03-health-and-human-well-being.md)** — conceptual outcomes, capabilities, alternatives and safeguards.
+
 **Future condition.** People can obtain safe, timely and effective care and live in conditions that support physical and mental well-being while retaining personal autonomy.
 
 **Conditions for progress (not a required sequence):**
@@ -179,6 +183,8 @@ Geographic inequality, local capabilities, transport, digital access, and resour
 Housing industrialization, codes, permitting, conservation, maintenance, and community impacts.
 
 ### DOM-05 — Economy, Work, and Prosperity
+
+**[Future-state chapter (draft)](manuscript/domains/DOM-05-economy-work-and-prosperity.md)** — productive public value, opportunity and market alternatives.
 
 **Future condition.** Productive work, entrepreneurship, ownership and investment create durable value and credible routes to upward mobility across society.
 
@@ -411,6 +417,8 @@ Dual-use capability, production surge, innovation, procurement, sustainment, and
 Transition, healthcare, disability, housing, employment, benefits, and accountability.
 
 ### DOM-12 — Cybersecurity, Privacy, and Information Integrity
+
+**[Future-state chapter (draft)](manuscript/domains/DOM-12-cybersecurity-privacy-and-information-integrity.md)** — resilience with autonomy, privacy and legal safeguards.
 
 **Future condition.** Individuals and institutions can participate in a secure digital society without surrendering privacy, independent judgment or lawful expression.
 
