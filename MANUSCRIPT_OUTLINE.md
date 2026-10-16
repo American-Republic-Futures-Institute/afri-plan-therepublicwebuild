@@ -106,6 +106,8 @@ Local associations, religion and conscience, community participation, public art
 
 ### DOM-02 — Education and Lifelong Learning
 
+**[Read the education institutional crosswalk](manuscript/institutions/education/00-institutional-crosswalk.md)** — The complementary Part III perspective on lawful responsibilities and government contributions.
+
 **[Read the initial future-state chapter](manuscript/02-education-and-lifelong-learning.md)** — INC-03 conceptual exemplar, draft v0.1.0; supported by the [education evidence register](research/EDUCATION_EVIDENCE_REGISTER.md).
 
 **Future condition.** People can access substantive, rigorous and applied education, demonstrate what they know, and advance through multiple learning and career pathways throughout life.
@@ -525,6 +527,8 @@ Eligibility assurance, benefits accuracy, due process, financial abuse, and prot
 Food and product safety, financial supervision, environment, labor, transportation, and enforcement gaps.
 
 ## Part III — The Government We Need: Branches, Institutions, and Offices
+
+**Initial institutional exemplar:** [Education: how public institutions can contribute](manuscript/institutions/education/00-institutional-crosswalk.md), with four branch/jurisdiction profiles and a separately sourced authority register. This is a model of lawful roles and future contributions, not a proposed agency restructuring.
 
 **Question:** Which public responsibilities and capabilities would support the national future states, and how should institutions remain constitutional, accountable and useful?
 
