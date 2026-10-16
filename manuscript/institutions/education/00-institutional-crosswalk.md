@@ -89,6 +89,23 @@ The capability view complements, rather than duplicates, the outcome view. Each 
 
 These relationships are a starting architecture for subsequent FEAF Performance and Business views. They are not a completed federal enterprise system architecture.
 
+### 4.1 Outcome-based progress conditions and relevant institutional relationships
+
+The eight education progress conditions from the future-state chapter describe **conditions worth achieving and sustaining**. They are not a central government's timetable or set of orders. Each is tied below to institutions or participants whose actual legal roles would need to be respected.
+
+| Condition | Possible institutional contribution | What must not be assumed |
+| --- | --- | --- |
+| **EDU-P01 — Learning foundations are durable** | State/local teaching; families and educational providers; IES/NCES learning evidence; authorized federal support. | National indicators do not authorize federally selected local curricula. |
+| **EDU-P02 — Competence is demonstrable and portable** | States, schools, technical providers, colleges, employers and authorized workforce programs. | No single credential or testing authority is presumed to control all learning. |
+| **EDU-P03 — Opportunity is credible across communities** | States/localities, tribal and territorial partners, IDEA and civil-rights functions, relevant connectivity support. | Identical institutional models are not necessary or always appropriate. |
+| **EDU-P04 — Educators can sustain high-quality practice** | Schools, educator preparation organizations, states, professional communities and independent researchers. | Federal grants or evidence do not grant general authority over teachers and personnel. |
+| **EDU-P05 — Advancement has multiple viable paths** | State postsecondary systems, employers, apprenticeship agencies, community colleges, federal aid where authorized. | Academic and vocational models need not be made legally or economically identical. |
+| **EDU-P06 — Learning can adapt responsibly** | Educators and learners, state/local institutions, independent evaluation, authorized privacy and rights oversight. | A technology pilot is not proof of learning improvement or permission for broad student surveillance. |
+| **EDU-P07 — Civic and intellectual independence endure** | Educational communities, lawful governance bodies, courts for actual rights cases, public research. | No government power to require political agreement or measure ideological loyalty. |
+| **EDU-P08 — Lifelong reentry remains possible** | Adult learners, employers, community colleges, libraries, state workforce entities and apprenticeship systems. | An adult-learning goal does not itself create a universal federal education entitlement. |
+
+This coverage relationship is intentionally **non-prescriptive**. A particular jurisdiction may have a very different lawful route to improving one condition. As future research clarifies those routes, the institutional profiles and source register can be updated without rewriting the underlying educational aspiration.
+
 ## 5. Three examples of connected institutional questions
 
 ### 5.1 Foundational literacy without federal curricular centralization
