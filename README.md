@@ -10,8 +10,9 @@
 
 1. [Executive summary](manuscript/00-executive-summary.md) — proposition, scope, principles, method and outcomes.
 2. [Introduction and first principles](manuscript/01-introduction-and-first-principles.md) — detailed ethical and constitutional framing; all 20 proposed principles and 12 evaluation gates.
-3. [Master manuscript outline](MANUSCRIPT_OUTLINE.md) — ten-part whole-of-government coverage plan, detailed chapter headings and appendices.
-4. [Source and editorial register](research/SOURCES_AND_DECISIONS.md) — provenance, evidence taxonomy, unresolved questions and editorial constraints.
+3. [Master manuscript outline](MANUSCRIPT_OUTLINE.md) — foundations, 14 future-state domains, the three federal branches and institutional partners, conceptual progress, and public stewardship.
+4. [Outline coverage crosswalk](research/OUTLINE_COVERAGE_CROSSWALK.md) — mapping of all 127 original chapter and appendix IDs into the reorganized manuscript.
+5. [Source and editorial register](research/SOURCES_AND_DECISIONS.md) — provenance, evidence taxonomy, unresolved questions and editorial constraints.
 
 ## Purpose
 
