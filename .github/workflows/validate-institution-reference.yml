@@ -1,0 +1,37 @@
+name: Validate institutional manuscript reference
+on:
+  pull_request:
+    paths:
+      - "README.md"
+      - "MANUSCRIPT_OUTLINE.md"
+      - "manuscript/**"
+      - "research/**"
+      - "docs/**"
+      - "scripts/**"
+      - "tests/**"
+      - ".github/workflows/validate-institution-reference.yml"
+  push:
+    branches: [main]
+    paths:
+      - "README.md"
+      - "MANUSCRIPT_OUTLINE.md"
+      - "manuscript/**"
+      - "research/**"
+      - "docs/**"
+      - "scripts/**"
+      - "tests/**"
+      - ".github/workflows/validate-institution-reference.yml"
+permissions:
+  contents: read
+jobs:
+  reference-validation:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Check institutional manuscript links and references
+        run: node scripts/validate-institution-reference.mjs
+      - name: Run institutional reference regression tests
+        run: node --test tests/institution-reference.test.mjs
