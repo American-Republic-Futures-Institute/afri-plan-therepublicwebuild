@@ -104,6 +104,8 @@ Local associations, religion and conscience, community participation, public art
 
 ### DOM-02 — Education and Lifelong Learning
 
+**[Read the initial future-state chapter](manuscript/02-education-and-lifelong-learning.md)** — INC-03 conceptual exemplar, draft v0.1.0; supported by the [education evidence register](research/EDUCATION_EVIDENCE_REGISTER.md).
+
 **Future condition.** People can access substantive, rigorous and applied education, demonstrate what they know, and advance through multiple learning and career pathways throughout life.
 
 **Conditions for progress (not a required sequence):**
